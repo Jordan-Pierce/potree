@@ -57,6 +57,19 @@ Copy the converted directory into &lt;potreeDirectory&gt;/pointclouds/data_conve
 <table>
 	<tr>
 		<td style="padding: 0px">
+			<a href="http://potree.org/potree/examples/D3.html" target="_blank">
+				<img src="examples/thumbnails/D3_example.png" width="100%" />
+			</a>
+		</td>
+	</tr>
+	<tr>
+		<th>D3 Example</th>
+	</tr>
+</table>
+
+<table>
+	<tr>
+		<td style="padding: 0px">
 			<a href="http://potree.org/potree/examples/viewer.html" target="_blank">
 				<img src="examples/thumbnails/viewer.png" width="100%" />
 			</a>
